@@ -7,20 +7,20 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="https://www.webassetscdn.com/avira/prod-blog/wp-content/uploads/2018/05/bestmessenger_head.jpg" alt="Logo" width="550" height="450" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk70Ml9bB-vvddWnlFHKlt-cNg-vWzhf6Oiw&s" alt="Logo" width="650" height="450" />
     <h3 align="center">
-        <a href="https://github.com/ddr-dileep/SMS" target="_blank" >
+        <a href="https://github.com/ddr-dileep/AUTH-API-WITH-SWAGGER" target="_blank" >
         </a>
     </h3>
 </p>
 
 ## Table of Contents
 
-- SMS app
+- Auth API
 - Swagger docs ->
 
 ```
-https://sms-chatting-app.onrender.com/api-docs/
+https://auth-api-with-swagger.onrender.com/api-docs/
 ```
 
 ## Create secreat string
@@ -39,7 +39,7 @@ node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [youtube-shield]: https://img.shields.io/badge/-Youtube-black.svg?style=round-square&logo=youtube&color=555&logoColor=white
-[youtube-url]: https://youtube.com
+[youtube-url]: https://www.youtube.com/@thecodeworld
 [facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=round-square&logo=facebook&color=555&logoColor=white
 [facebook-url]: https://facebook.com
 [facebook-group-url]: https://facebook.com
