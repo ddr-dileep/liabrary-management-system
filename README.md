@@ -7,7 +7,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk70Ml9bB-vvddWnlFHKlt-cNg-vWzhf6Oiw&s" alt="Logo" width="550" height="370" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk70Ml9bB-vvddWnlFHKlt-cNg-vWzhf6Oiw&s" alt="Logo" width="550" height="280" />
     <h3 align="center">
         <a href="https://github.com/ddr-dileep/AUTH-API-WITH-SWAGGER" target="_blank" >
         </a>
