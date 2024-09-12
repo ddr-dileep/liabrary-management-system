@@ -7,16 +7,16 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk70Ml9bB-vvddWnlFHKlt-cNg-vWzhf6Oiw&s" alt="Logo" width="550" height="280" />
+    <img src="https://www.weareteachers.com/wp-content/uploads/Best-Library-Resources-for-Teachers.jpg" alt="Logo" width="800" height="450" />
     <h3 align="center">
-        <a href="https://github.com/ddr-dileep/AUTH-API-WITH-SWAGGER" target="_blank" >
+        <a href="https://github.com/ddr-dileep/liabrary-management-system" target="_blank" >
         </a>
     </h3>
 </p>
 
 ## Table of Contents
 
-- Auth API
+- Library API
 - Swagger docs ->
 
 ```
