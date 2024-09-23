@@ -17,16 +17,49 @@
 ## Table of Contents
 
 - Library API
-- Swagger docs ->
+- Swagger docs -> https://auth-api-with-swagger.onrender.com/api-docs/
 
-```
-https://auth-api-with-swagger.onrender.com/api-docs/
-```
 
 ## Create secreat string
 
 ```
 node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
+```
+
+
+## Tech Stack
+
+**Server:** Node, Express,
+
+**Server:** TypeScript
+
+**Database:** Mongo DB
+
+
+## Run Locally
+
+- Clone the project
+
+```bash
+  git clone https://github.com/ddr-dileep/SMS-CHATTING-APP
+```
+
+- Go to the project directory
+
+```bash
+  cd SMS-CHATTING-APP
+```
+
+- Install dependencies
+
+```bash
+  yarn install
+```
+
+- run the application
+
+```bash
+  yarn run dev
 ```
 
 ## Contact
