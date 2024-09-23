@@ -3,7 +3,7 @@ import mongoose from "mongoose";
 const databaseConfig = async () => {
   try {
     await mongoose.connect(process.env.MONGODB_URI!, {
-      dbName: "SMS",
+      dbName: "library management system",
     });
     console.log("Connected to MongoDB");
   } catch (error: any) {
