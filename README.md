@@ -14,7 +14,7 @@
     </h3>
 </p>
 
-## Table of Contents
+## Table of contents
 
 - Library API
 - Swagger docs -> https://auth-api-with-swagger.onrender.com/api-docs/
@@ -27,7 +27,7 @@ node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
 ```
 
 
-## Tech Stack
+## Tech stack
 
 **Server:** Node, Express,
 
@@ -36,7 +36,7 @@ node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
 **Database:** Mongo DB
 
 
-## Run Locally
+## Run locally
 
 - Clone the project
 
@@ -56,7 +56,7 @@ node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
   yarn install
 ```
 
-- run the application
+- Run the application
 
 ```bash
   yarn run dev
