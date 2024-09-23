@@ -5,17 +5,17 @@ const swaggerOptions: Options = {
   swaggerDefinition: {
     openapi: "3.0.0",
     info: {
-      title: "SMS API Documentation",
+      title: "LMS API Documentation",
       version: "1.0.0",
       description:
-        "API documentation for SMS stands for Short Message Service, and it's a messaging service that allows users to send short messages to other devices",
+        "API documentation for LMS A library management system (LMS) is a software program that helps manage a library's operations by automating tasks like tracking books, issuing and reissuing books, and calculating fees",
     },
     servers: [
       {
-        url: "http://localhost:8080",
+        url: "http://localhost:8080/api/v1",
       },
       {
-        url: "https://sms-chatting-app.onrender.com",
+        url: "https://auth-api-with-swagger.onrender.com/api-docs/api/v1",
       },
     ],
     paths: {
