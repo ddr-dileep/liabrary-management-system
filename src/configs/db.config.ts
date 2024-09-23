@@ -3,7 +3,7 @@ import mongoose from "mongoose";
 const databaseConfig = async () => {
   try {
     await mongoose.connect(process.env.MONGODB_URI!, {
-      dbName: "library management system",
+      dbName: "library_management_system",
     });
     console.log("Connected to MongoDB");
   } catch (error: any) {
