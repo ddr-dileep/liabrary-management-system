@@ -13,9 +13,11 @@ const swaggerOptions: Options = {
     servers: [
       {
         url: "http://localhost:8080/api/v1",
+        description: "Development environment",
       },
       {
         url: "https://auth-api-with-swagger.onrender.com/api-docs/api/v1",
+        description: "Production environment",
       },
     ],
     paths: {
