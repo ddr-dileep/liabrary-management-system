@@ -26,9 +26,7 @@ https://auth-api-with-swagger.onrender.com/api-docs/
 ## Create secreat string
 
 ```
-
 node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
-
 ```
 
 ## Contact
